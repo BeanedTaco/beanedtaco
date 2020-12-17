@@ -1,6 +1,6 @@
 ## Hello! Bonjour! こんにちは! 안녕하세요!
 
-I'm Danny, a full-stack developer, web designer, and coordinator at many communities. I have skills in JavaScript (Node, Electron, and client-side) and Python. I'm also slowly learning Java as well!
+I'm Danny, a full-stack developer, web designer, and coordinator in many communities. I have skills in JavaScript (Node, Electron, and client-side) and Python. I'm also slowly learning Java as well!
 
 I currently work for [Squared Labs](https://discord.gg/BbRn5AtkvG) as a Senior Developer. We create software for the public and conduct cool experiments.
 
