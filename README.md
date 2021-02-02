@@ -4,7 +4,7 @@ I'm Danny, a full-stack developer, web designer, and coordinator in many communi
 
 I currently work for [Squared Labs](https://discord.gg/BbRn5AtkvG) as a Senior Developer. We create software for the public and conduct cool experiments.
 
-I used to work for [Artemis Studios](https://artemisdev.tech) as a Lead Developer, and I was working on the [Kiwi](https://artemisdev.tech/kiwi) project. It's a multi-purpose Discord bot.
+I used to work for [Artemis Studios](https://artemisdev.tech) as a Lead Developer, and I was working on the [Kiwi](https://artemisdev.tech/kiwi) project. It's a multi-purpose Discord bot. I now lead Artemis as one of the three Owners and the lead of DevOps.
 
 ***My website has all my social medias and links. It can be found [here](https://bean.codes).***
 
