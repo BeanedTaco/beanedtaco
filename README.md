@@ -2,9 +2,11 @@
 
 I'm Danny, a full-stack developer, web designer, and coordinator in many communities. I have skills in JavaScript (Node, Deno, Electron, and client-side) and Python. I'm also slowly learning Java and TypeScript too!
 
-I currently work for [Squared Labs](https://discord.gg/BbRn5AtkvG) as a Senior Developer. We create software for the public and conduct cool experiments.
+I am a Head/Lead Developer at [Lights On Studios](https://lightson.xyz). We create cool Discord bots and programmes at Lights On, and we maintain Ice Cream (our flagship Discord bot).
 
-I used to work for [Artemis Studios](https://artemisdev.tech) as a Lead Developer, and I was working on the [Kiwi](https://artemisdev.tech/kiwi) project. It's a multi-purpose Discord bot. I now lead Artemis as one of the three Owners and the lead of DevOps.
+I also work for [Squared Labs](https://discord.gg/BbRn5AtkvG) as a Senior Developer. We create software for the public and conduct cool experiments.
+
+I currently lead DevOps [at Artemis](https://forums.artemis.org.uk) as an Owner. I used to be the Lead Developer there before it restructured.
 
 ***My website has all my social medias and links. It can be found [here](https://bean.codes).***
 
