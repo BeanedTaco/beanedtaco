@@ -6,7 +6,7 @@ I am a Head/Lead Developer at [Lights On Studios](https://lightson.xyz). We crea
 
 I also work for [Squared Labs](https://discord.gg/BbRn5AtkvG) as a Senior Developer. We create software for the public and conduct cool experiments.
 
-I currently lead DevOps [at Artemis](https://forums.artemis.org.uk) as an Owner. I used to be the Lead Developer there before it restructured.
+I currently lead DevOps [at Artemis](https://artemis.org.uk) as an Owner/Lead Developer. I left Artemis for some time, but I have returned to my original position.
 
 ***My website has all my social medias and links. It can be found [here](https://bean.codes).***
 
