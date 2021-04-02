@@ -1,11 +1,11 @@
 schemVer: 1.0.0 # The version of the configuration schema.
 
-presenceID: "123456789123456789" # The client ID of the presence. Create an application at https://discord.com/developers/applications for more details.
+presenceID: "724501664609861732" # The client ID of the presence. Create an application at https://discord.com/developers/applications for more details.
 
-largeImage: { "key": "bigImage", "text": "THIS IS A BIG IMAGE." }
+largeImage: { "key": "bigimage", "text": "THIS IS A BIG IMAGE." }
 # Above is the large image object. The key option specifies which image to use (specified in the dev portal).
 # The text specifies the text that it displays on-hover.
-smallImage: { "key": "smallImage", "text": "THIS IS A TINY IMAGE." }
+smallImage: { "key": "smallimage", "text": "THIS IS A TINY IMAGE." }
 # Above is the small image object. The key option specifies which image to use (specified in the dev portal).
 # The text specifies the text that it displays on-hover.
 
