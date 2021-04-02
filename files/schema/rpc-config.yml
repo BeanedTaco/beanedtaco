@@ -1,0 +1,18 @@
+schemVer: 1.0.0 # The version of the configuration schema.
+presenceID: "123456789123456789" # The client ID of the presence. Create an application at https://discord.com/developers/applications for more details.
+state: "Playing heheh" # The first line of your Rich Presence.
+details: "Playing a game" # The second line of your Rich Presence.
+timeElapsed: false # Enables the 'time elapsed' field under your status. Disabled by default.
+buttons: # Really, this should be self-explanatory. If not, read the details in each skeleton. It shouldn't be too hard to understand.
+  [
+    {
+      "enabled": false, # Whether or not the first button in your presence is enabled or not. If not, the button will not appear. Use true/false to toggle.
+      "label": "Button 1", # The text that your button displays.
+      "link": "https://github.com", # The link that the button takes a user to when they click it.
+    },
+    {
+      "enabled": false, # Whether or not the first button in your presence is enabled or not. If not, the button will not appear. Use true/false to toggle.
+      "label": "Button 2", # The text that your button displays.
+      "link": "https://electronjs.org", # The link that the button takes a user to when they click it.
+    },
+  ]
