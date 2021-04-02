@@ -1,8 +1,18 @@
 schemVer: 1.0.0 # The version of the configuration schema.
+
 presenceID: "123456789123456789" # The client ID of the presence. Create an application at https://discord.com/developers/applications for more details.
+
+largeImage: { "key": "bigImage", "text": "THIS IS A BIG IMAGE." }
+# Above is the large image object. The key option specifies which image to use (specified in the dev portal).
+# The text specifies the text that it displays on-hover.
+smallImage: { "key": "smallImage", "text": "THIS IS A TINY IMAGE." }
+# Above is the small image object. The key option specifies which image to use (specified in the dev portal).
+# The text specifies the text that it displays on-hover.
+
 state: "Playing heheh" # The first line of your Rich Presence.
 details: "Playing a game" # The second line of your Rich Presence.
 timeElapsed: false # Enables the 'time elapsed' field under your status. Disabled by default.
+
 buttons: # Really, this should be self-explanatory. If not, read the details in each skeleton. It shouldn't be too hard to understand.
   [
     {
