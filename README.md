@@ -1,6 +1,6 @@
 ## Hello! Bonjour! こんにちは! 안녕하세요!
 
-I'm Danny, a full-stack developer, web designer, and coordinator in many communities. I have skills in JavaScript (Node, Deno, Electron, and client-side) and Python. I'm also slowly learning Java and TypeScript too!
+I'm Danny, a full-stack developer, web designer, and coordinator in many communities. I have skills in JavaScript (Node, Deno, Electron, and client-side) and Python. I'm also slowly learning Java, TypeScript, C#, Rust, and Go too!
 
 I am a Head/Lead Developer at [Lights On Studios](https://lightson.xyz). We create cool Discord bots and programmes at Lights On, and we maintain Ice Cream (our flagship Discord bot).
 
