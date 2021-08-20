@@ -4,8 +4,6 @@ I'm Danny, a full-stack developer, web designer, and coordinator in many communi
 
 I am a Head/Lead Developer at [Ice Cream Studios](https://discord.gg/XUPHpTrZdP). We develop the namesake bot Ice Cream.
 
-I'm an Owner at [Cozy](https://docs.cozy.lol), a Minecraft network primarily focused on SMP and Creative game modes. I'm also lead systems administrator at Cozy, in addition to co-lead of Systems Disaster Response & Recovery.
-
 ***My website has all my social medias and links. It can be found [here](https://bean.codes).***
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dannnington&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
