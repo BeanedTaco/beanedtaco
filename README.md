@@ -1,8 +1,12 @@
-## Hello! Bonjour! こんにちは! 안녕하세요!
+## Hey there!
 
-I'm Danny, a full-stack developer, web designer, and coordinator in many communities. I have skills in JavaScript (Node, Deno, Electron, and client-side) and Python. I'm also slowly learning Java, TypeScript, C#, Rust, and Go too!
+I'm Danny, a software engineer, UI and web designer, systems administrator, and data analyst. 
 
-I am a Head/Lead Developer at [Ice Cream Studios](https://discord.gg/XUPHpTrZdP). We develop the namesake bot Ice Cream.
+I have skills in JavaScript and TypeScript (Node, Deno, Electron, and client-side), Python, and Java. I'm learning C#, C++, Rust, and Go at the moment.
+
+I am a Lead Developer at [Ice Cream Studios](https://discord.gg/XUPHpTrZdP). We develop the namesake bot Ice Cream. I also co-own [FibreDragon](https://fibredragon.com) with a friend of mine.
+
+My personal projects include Discord bots, software, and systems administration. My main coding project at the moment is [Songfish](https://github.com/Dannnington/songfish), an invite-only Discord bot for music playback.
 
 ***My website has all my social medias and links. It can be found [here](https://bean.codes).***
 
