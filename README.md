@@ -1,11 +1,9 @@
-## Hey there!
+Hiya there! I'm a student currently pursuing journalism. I code and do systems administration in my spare time, with experience in JS (Node and client-side), Rust, C#, and Python (along with other languages).
 
-I'm Danny, a software engineer, UI and web designer, systems administrator, and data analyst. 
+You can find my website [here](https://danny.works). If you'd like to hire my development/systems administration expertise, you can [go here](https://hydrabank.systems) for more information.
 
-I have skills in JavaScript and TypeScript (Node, Deno, Electron, and client-side), Python, and Java. I'm learning C#, C++, Rust, and Go at the moment.
+Stay spicy and ride along life, my friends. 😎
 
-***My website has all my social medias and links. It can be found [here](https://danny.works).***
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/181944866987704320?hideStatus=true&idleMessage=Idling)](https://discord.com/users/181944866987704320)
+[![Discord Presence](https://lanyard.cnrad.dev/api/181944866987704320?hideStatus=true&idleMessage=Idling&bg=151515)](https://discord.com/users/181944866987704320)
 <br />
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dannnington&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)]()
