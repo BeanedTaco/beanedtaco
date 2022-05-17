@@ -6,6 +6,6 @@ I have skills in JavaScript and TypeScript (Node, Deno, Electron, and client-sid
 
 ***My website has all my social medias and links. It can be found [here](https://danny.works).***
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dannnington&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=dannnington&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)]()
+[![Discord Presence](https://lanyard.cnrad.dev/api/181944866987704320?hideStatus=true&idleMessage=Idling)](https://discord.com/users/181944866987704320)
+<br />
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=dannnington&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true)]()
