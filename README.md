@@ -1,5 +1,5 @@
 # hi, i'm dani
-when i'm not studying (transport planning w/ a minor in journalism), i'm a web designer and software developer. i do a lot of stuff, feel free to look around at my older projects (and my org projects)!
+when i'm not studying, i'm a web designer and software developer. i do a lot of stuff, feel free to look around at my older projects (and my org projects)!
 
 i really don't use this for personal projects anymore - most of that's on my personal forgejo instance or on [codeberg](https://codeberg.org/daniaintonline). cool to see you here, though!
 
